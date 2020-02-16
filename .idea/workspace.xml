@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2810a6a8-8ff7-46f6-a26f-77017b07c28d" name="Default Changelist" comment="" />
+    <list default="true" id="2810a6a8-8ff7-46f6-a26f-77017b07c28d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1XpIXOMR0iGbGwzSLxO7yAv3KeL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -88,17 +98,34 @@
       <option name="presentableId" value="Default" />
       <updated>1581736647564</updated>
       <workItem from="1581736652804" duration="13867000" />
+      <workItem from="1581823428883" duration="940000" />
     </task>
+    <task id="LOCAL-00001" summary="初始版本">
+      <created>1581823461309</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581823461309</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始版本" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始版本" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1035" y="403" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581737565336">
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
     <state x="1035" y="403" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/36.23.1644.1027@36.23.1644.1027" timestamp="1581737565336" />
+    <state x="391" y="127" key="CommitChangelistDialog2" timestamp="1581823461139">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="391" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1581823461139" />
     <state x="604" y="320" width="544" height="199" key="Github.ShareDialog" timestamp="1581823243486">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -167,6 +194,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="328" y="106" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1581823391128" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1581823492093">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1581823492093" />
     <state x="927" y="293" width="683" height="486" key="find.popup" timestamp="1581737518841">
       <screen x="36" y="23" width="1644" height="1027" />
     </state>
